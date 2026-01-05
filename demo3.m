@@ -21,4 +21,7 @@ maxx = max(x)+0.05*(max(x)-min(x));
 X = [minx,maxx];
 Y = [p(1)*minx+p(2),p(1)*maxx+p(2)];
 plot(X,Y);
+xlabel('real AD age (years)');
+ylabel('predict AD age (years)');
 hold off
+

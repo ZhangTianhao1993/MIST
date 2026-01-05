@@ -44,7 +44,7 @@ Predict disease age for new subjects using a pretrained model.
 ### Example 1: Training the Model and Visualizing Trajectories
 
 see demo1
-
+![Biomarker Trajectories](figures/demo1_fig.png)
 ### Example 2: ROI-Level Analysis and Visualization
 
 see demo2

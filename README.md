@@ -124,12 +124,12 @@ drawTimeSurface(AV1451ROIvalues, CData, fv, mymap, minz, maxz, 'AV1451_5.tif');
 
 <table>
 <tr>
-<td><img src="figure/demo2_fig" alt="MRI" width="200"/></td>
-<td><img src="figures/AV45_5.tif" alt="AV45" width="200"/></td>
+<td><img src="figure/demo2_fig_MRI.png" alt="MRI" width="200"/></td>
+<td><img src="figure/demo2_fig_AV45.png" alt="AV45" width="200"/></td>
 </tr>
 <tr>
-<td><img src="figures/FBB_5.tif" alt="FBB" width="200"/></td>
-<td><img src="figures/AV1451_5.tif" alt="AV1451" width="200"/></td>
+<td><img src="figure/demo2_fig_FBB.png" alt="FBB" width="200"/></td>
+<td><img src="figure/demo2_fig_AV1451.png" alt="AV1451" width="200"/></td>
 </tr>
 </table>
 

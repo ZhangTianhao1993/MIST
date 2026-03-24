@@ -196,3 +196,6 @@ saveas(gcf, 'prediction_performance.png');
 
 For questions or issues, please contact:
 - thzhang@ihep.ac.cn
+
+## Reference: 
+Zhang, T., Nie, B., Liu, H. et al. Prediction of alzheimer's disease time to dementia onset using cross-sectional data from spatiotemporal biomarker progression patterns. *Eur J Nucl Med Mol Imaging* (2026). https://doi.org/10.1007/s00259-026-07797-3
